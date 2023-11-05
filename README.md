@@ -1,6 +1,5 @@
+## Hi, I'm Tran 👋
 ![Banner Image](/banner-image.png)
-
-### Hi, I'm Tran 👋
 
 🌻  Hi! My name is Tran. I am a Software Engineer dedicated to creating user-friendly and whimsical designs that spark joy and smiles.
 
@@ -9,3 +8,7 @@
 🐶  When I am not coding I love to play with my dog and two cats. I also like drawing, coffee, going to concerts, and listening to podcasts.
 
 ☕️  I'd love the opportunity to collaborate on a project, exchange greetings, or make some wonderful new friends!
+
+### Reach out to me!
+- [Personal Portfolio](https://iamtran.netlify.app/)
+- [LinkedIn](www.linkedin.com/in/tran-huynh-nguyen)
