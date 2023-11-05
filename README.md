@@ -1,4 +1,4 @@
-
+![Banner Image](/banner-image.png)
 
 ### Hi, I'm Tran 👋
 
