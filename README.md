@@ -1,5 +1,5 @@
 ## Hi, I'm Tran 👋
-![Banner Image](/banner-image.png)
+![Banner Image](/banner-image-update.png)
 
 🌻  Hi! My name is Tran. I am a Software Engineer dedicated to creating user-friendly and whimsical designs that spark joy and smiles.
 
