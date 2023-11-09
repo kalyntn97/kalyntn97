@@ -9,6 +9,15 @@
 
 ☕️  I'd love the opportunity to collaborate on a project, exchange greetings, or make some wonderful new friends!
 
+
+---
+
+
 ### Reach out to me!
 - [Personal Portfolio](https://iamtran.netlify.app/)
 - [LinkedIn](www.linkedin.com/in/tran-huynh-nguyen)
+
+
+---
+
+- <img src="https://myreadme.vercel.app/api/embed/kalyntn97?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
