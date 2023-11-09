@@ -28,6 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-lightyellow?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/python-lightgreen?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/typescript-skyblue?style=for-the-badge&logo=typescript)
+![Static Badge](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
 ![Static Badge](https://img.shields.io/badge/Sass-lightpink?style=for-the-badge&logo=sass)
 ![Static Badge](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
