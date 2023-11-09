@@ -18,6 +18,7 @@
 <a href='https://www.linkedin.com/in/tran-huynh-nguyen/' target='_blank'>![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a>
 <a href='https://github.com/kalyntn97'>![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)</a>
 
+
 ---
 
 
@@ -40,7 +41,6 @@
 ![Static Badge](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=vscode)
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftran-huynh-nguyen%2F)
 
 
 ---
