@@ -70,6 +70,6 @@
 
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=kalyntn97)](https://github.com/ryo-ma/github-profile-trophy)
 
-- <img src="https://myreadme.vercel.app/api/embed/kalyntn97?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://myreadme.vercel.app/api/embed/kalyntn97?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
